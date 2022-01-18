@@ -1,2 +1,3 @@
 # 7hammad.github.io
-My blog
+[My blog](http://7hammad.github.io)
+
